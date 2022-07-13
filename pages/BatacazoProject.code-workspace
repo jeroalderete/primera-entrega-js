@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../AldoRecordsProject"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "BatacazoProject"
+	}
+}
